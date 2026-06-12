@@ -62,7 +62,7 @@ An educational cybersecurity awareness website being built to demonstrate common
 
 A basic CRUD API practice project for learning request handling, JSON to Java conversion, and REST endpoint design.
 
-**[🔗 View Repository](#)** <!-- Add your link when available -->
+**[🔗 View Repository](https://github.com/Slayniaccc/springboot-tasks-api.git)**
 
 ## 💡 What I Care About
 
