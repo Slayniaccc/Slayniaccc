@@ -56,6 +56,14 @@ An educational cybersecurity awareness website being built to demonstrate common
 
 **[🔗 View Repository](#)** <!-- Coming soon -->
 
+## 📚 Practice Projects
+
+**Spring Boot Tasks API** | *Java, Spring Boot, REST*
+
+A basic CRUD API practice project for learning request handling, JSON to Java conversion, and REST endpoint design.
+
+**[🔗 View Repository](#)** <!-- Add your link when available -->
+
 ## 💡 What I Care About
 
 * Writing clear, logical code
