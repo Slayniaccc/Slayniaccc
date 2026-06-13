@@ -49,12 +49,18 @@ A tool that generates beautiful, customizable cards for GitHub repositories usin
 
 ---
 
-### 🔐 Cybersecurity Website
-*HTML | CSS | JavaScript | Security Concepts*
+### 🔐 Brunel Cybersecurity Society Website
+*HTML | CSS | JavaScript | Responsive Design*
 
-An educational cybersecurity awareness website being built to demonstrate common security concepts, best practices, and interactive threat simulations. Work in progress.
+The official website for Brunel University's new Cybersecurity Society (Est. 2026). Features a terminal-style hero section, animated wave background, modular content management (`data.js`), and a committee page. Built to be easy for non-technical committee members to update events and blog posts.
 
-**[🔗 View Repository](#)** <!-- Coming soon -->
+**Key challenges & solutions:**
+- **Decoupled content from design:** Used a `data.js` file so committee members can update events without touching HTML
+- **Balanced hacker aesthetic:** Combined monospace (JetBrains Mono) for terminal accents with clean sans-serif (Inter) for body text
+- **Modular codebase:** Structured CSS into logical sections (variables, layout, components, terminal, responsive)
+
+[![View Repository](https://img.shields.io/badge/github-view_repo-181717?style=flat&logo=github)](https://github.com/Slayniaccc/brunel-cyber-society)
+[![Live Demo](https://img.shields.io/badge/demo-live_site-6FC9D8?style=flat&logo=githubpages&logoColor=white)](https://slayniaccc.github.io/brunel-cyber-society/)
 
 ## 📚 Practice Projects
 
