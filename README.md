@@ -49,19 +49,18 @@ A tool that generates beautiful, customizable cards for GitHub repositories usin
 
 ---
 
-### 🔐 Brunel Cybersecurity Society Website
+### 🔐 Brunel Cyber Security Society Website
 *HTML | CSS | JavaScript | Responsive Design*
 
-The official website for Brunel University's new Cybersecurity Society (Est. 2026). Features a terminal-style hero section, animated wave background, modular content management (`data.js`), and a committee page. Built to be easy for non-technical committee members to update events and blog posts.
+The official website for Brunel University's Cybersecurity Society (Est. 2026). Features a terminal-style hero, animated wave background, modular content management (`data.js`), and a committee page. Built to be easy for non-technical committee members to update events and blog posts.
 
 **Key challenges & solutions:**
 - **Decoupled content from design:** Used a `data.js` file so committee members can update events without touching HTML
 - **Balanced hacker aesthetic:** Combined monospace (JetBrains Mono) for terminal accents with clean sans-serif (Inter) for body text
-- **Modular codebase:** Structured CSS into logical sections (variables, layout, components, terminal, responsive)
+- **Modular CSS architecture:** Structured styles into `core.css`, `layout.css`, and `components.css` for easier collaboration
 
-[![View Repository](https://img.shields.io/badge/github-view_repo-181717?style=flat&logo=github)](https://github.com/Slayniaccc/brunel-cyber-society)
-[![Live Demo](https://img.shields.io/badge/demo-live_site-6FC9D8?style=flat&logo=githubpages&logoColor=white)](https://slayniaccc.github.io/brunel-cyber-society/)
-
+[![View Repository](https://img.shields.io/badge/github-view_repo-181717?style=flat&logo=github)](https://github.com/brunelcybersec/brunel-cyber-society)
+[![Live Demo](https://img.shields.io/badge/demo-live_site-6FC9D8?style=flat&logo=githubpages&logoColor=white)](https://brunelcybersec.github.io/brunel-cyber-society/)
 ## 📚 Practice Projects
 
 **Spring Boot Tasks API** | *Java, Spring Boot, REST*
