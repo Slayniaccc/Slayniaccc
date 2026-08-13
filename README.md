@@ -20,7 +20,7 @@ Interested in **software engineering**, **full-stack** and **DevOps** — backen
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" alt="Eclipse" width="42" height="42"/>&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="42" height="42"/>&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" alt="Canva" width="42" height="42"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/phaser/phaser-original.svg" alt="Phaser" width="42" height="42"/>
+ 
 </p>
 
 ---
