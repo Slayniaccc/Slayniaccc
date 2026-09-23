@@ -1,10 +1,10 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Second-year+CS+%40+Brunel;SWE-leaning+%C2%B7+Full-stack;Growing+into+DevOps%2C+Data+%26+ML;Co-founder+%40+Strayline+Games)](https://git.io/typing-svg)
-
-![Commit FM](commit-fm.svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Second-year+CS+%40+Brunel;SWE-leaning+%C2%B7+Full-stack;Growing+into+DevOps%2C+Data+%26+ML;Co-founder+%40+Strayline+Games)](https://git.io/typing-svg)
 
 ![Rodri Man City Celebration](https://media.tenor.com/n9xzbEFGdhA.gif)
+
+![Commit FM](commit-fm.svg)
 
 </div>
 
@@ -12,13 +12,13 @@
 
 ## 🛠️ Tech Stack
 
-![My Skills](https://skillicons.dev/icons?i=java,ts,js,html,css,spring,tailwind,postgres,docker,git,maven,githubactions,idea,vscode,linux,unreal&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=java,ts,js,html,css,spring,tailwind,postgres,docker,git,maven,githubactions,eclipse,vscode,unreal&theme=dark)
 
 ---
 
 ## 🎮 Studio
 
-**Strayline Games Studio** · *Co-Founder* · *Mid 2025 – Present*
+**Strayline Games Studio** · *Co-Founder* · *August 2026 – Present*
 
 Indie studio of 3 devs building **CRIMSONCARVE**, a rogue-like. I engineer core mechanics and event graphs using Unreal Engine Blueprints and node-based visual scripting, and manage binary asset streams and version control with Perforce (P4).
 
