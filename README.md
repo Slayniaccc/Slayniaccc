@@ -1,7 +1,10 @@
 <div align="center">
 
-**Second-year CS @ Brunel**  
-*Software engineering · full-stack · DevOps*
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Second-year+CS+%40+Brunel;SWE-leaning+%C2%B7+Full-stack;Growing+into+DevOps%2C+Data+%26+ML;Co-founder+%40+Strayline+Games)](https://git.io/typing-svg)
+
+![Commit FM](commit-fm.svg)
+
+![Rodri Man City Celebration](https://media.tenor.com/n9xzbEFGdhA.gif)
 
 </div>
 
@@ -9,52 +12,51 @@
 
 ## 🛠️ Tech Stack
 
-### Languages
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="42" height="42"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="42" height="42"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="42" height="42"/>
+![My Skills](https://skillicons.dev/icons?i=java,ts,js,html,css,spring,tailwind,postgres,docker,git,maven,githubactions,idea,vscode,linux,unreal&theme=dark)
 
-### Markup & Styling
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="42" height="42"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="42" height="42"/>
+---
 
-### Frameworks & Tools
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="42" height="42"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/phaser/phaser-original.svg" width="42" height="42"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="42" height="42"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="42" height="42"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="42" height="42"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="42" height="42"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="42" height="42"/>
+## 🎮 Studio
+
+**Strayline Games Studio** · *Co-Founder* · *Mid 2025 – Present*
+
+Indie studio of 3 devs building **CRIMSONCARVE**, a rogue-like. I engineer core mechanics and event graphs using Unreal Engine Blueprints and node-based visual scripting, and manage binary asset streams and version control with Perforce (P4).
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/straylinegames/)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white)](https://www.tiktok.com/@straylinegames)
+
+---
+
+## 💼 Experience
+
+**Digital Gaming Intern** · *London Borough of Hillingdon Council* · *Summer 2026*  
+Designed and developed an interactive educational game putting Year 6 pupils inside the Dowding System during the Battle of Britain. Built with JavaScript and Phaser 3 as a PWA, optimised for tablet-first classroom use.  
+→ [Eyes On The Sky](https://github.com/Slayniaccc/EyesOnTheSky) · [play it](https://slayniaccc.github.io/EyesOnTheSky/)
 
 ---
 
 ## 🏗️ Current Project
 
 ### [Sports Conflict Tracker](https://github.com/Slayniaccc/sports-conflict-tracker)
-*Java · Spring Boot · Maven*
+*Java 21 · Spring Boot 3.3 · Postgres 16 · Flyway · TypeScript · Tailwind · Docker · GitHub Actions*
 
-Multi-league fixture tracker that converts football, basketball, baseball and NFL fixtures into local time, with conflict detection and calendar export.
+Detects fixture clashes across your followed sports teams and scores which one to watch, with reasoning. NBA, NFL, MLB and EPL data from BALLDONTLIE and Football-Data.org.
 
-- **What it does**: Scans multiple sports leagues for fixture conflicts, alerts you when games overlap, and lets you export to your calendar
-- **Current focus**: Building the rule engine that scores fixture conflicts (rivalry matches get +20 points)
-- **Tech**: Java 21, Spring Boot, Maven, Postgres (coming soon)
+- **Core**: A pure-Java rule engine scores conflicts on rivalry, playoff implications, form and home/away — layered with Spring, not through it
+- **Backend**: JWT auth, Flyway migrations (V1–V5), composite `(league, external_id)` constraints, paginated provider syncs
+- **Frontend**: TypeScript + Tailwind (in progress)
+- **Infra**: Docker, GitHub Actions, deploying to Railway/Fly.io
 
 ---
 
 ## 👥 Leadership
 
-### Secretary @ Brunel Cyber Security Society
-*2026–27*
-
-Help run a student-led community focused on hands-on security workshops and CTF competitions. Manage communications, support event planning, and maintain our digital presence.
-
+**Secretary @ Brunel Cyber Security Society** · *2026–27*  
+Run a student-led community focused on security workshops and CTFs. Manage comms, event planning, and digital presence.  
 [Website](https://brunelcybersec.github.io/brunel-cyber-society/) · [GitHub](https://github.com/brunelcybersec)
 
-### PAL Leader @ Brunel University London
-*2026–27*
-
-Support first-year students through peer-assisted learning sessions. Help develop study skills, build student confidence, and create a welcoming academic community through weekly group sessions and mentoring.
+**PAL Leader @ Brunel University London** · *2026–27*  
+Support first-years through peer-assisted learning, study skills, and weekly mentoring.
 
 ---
 
@@ -62,18 +64,20 @@ Support first-year students through peer-assisted learning sessions. Help develo
 
 | Project | What it does | Built with |
 |---|---|---|
-| **[Eyes On The Sky](https://github.com/Slayniaccc/EyesOnTheSky)** | Tablet-first educational game putting Year 6 pupils inside the Dowding System during the Battle of Britain | JS · Phaser 3 · PWA · [play it](https://slayniaccc.github.io/EyesOnTheSky/) |
+| **[Eyes On The Sky](https://github.com/Slayniaccc/EyesOnTheSky)** | Digital gaming internship — tablet-first educational game putting Year 6 pupils inside the Dowding System | JS · Phaser 3 · PWA · [play](https://slayniaccc.github.io/EyesOnTheSky/) |
 | **[Mastermind](https://github.com/Slayniaccc/mastermind)** | Colour-guessing game with feedback, hints, scoring and file logging | Java · Raspberry Pi |
 | **[Simon Swift](https://github.com/Slayniaccc/simonswift)** | Memory game on Raspberry Pi driving LEDs, buttons and motion sensors | Java · Raspberry Pi |
-| **[Cyber Society Site](https://brunelcybersec.github.io/brunel-cyber-society/)** | Society site with content decoupled into `data.js` for non-technical edits | JS · HTML · CSS |
-| **[Repo Card Generator](https://github.com/Slayniaccc/github-repo-card-generator)** | Customisable GitHub repo cards built on the GitHub API | JS · HTML · CSS |
-| **Phishing Email Trainer** *(coming soon)* | Deterministic rule engine scores pasted emails and explains each red flag, with an AI layer for plain-English breakdowns | Java · Spring Boot · Postgres · TypeScript · Tailwind |
+| **[Repo Card Generator](https://github.com/Slayniaccc/github-repo-card-generator)** | Customisable GitHub repo cards on the GitHub API | JS · HTML · CSS |
+
+---
+
+## 🏆 Sports
+
+Fan of the **Dodgers**, **Ravens**, **Man City** and **Sixers**.
 
 ---
 
 <div align="center">
-
-[![Streak](https://streak-stats.demolab.com?user=Slayniaccc&hide_border=true&theme=transparent&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdirahman-abdikadir-491875402/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:abdirahman.kha@gmail.com)
